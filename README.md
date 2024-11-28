@@ -1,0 +1,2 @@
+# bulgar_adventcalendar_config_example
+bulgar_adventcalendar_config_example
