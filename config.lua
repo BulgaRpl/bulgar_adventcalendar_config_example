@@ -22,7 +22,7 @@ Config.OpenItem = true -- Open Calendar With Item
 Config.Item = 'adventcalendar' -- Item Name
 
 -- Config Date
-Config.Month = 12 -- Works only on December
+Config.Month = 12 -- December
 
 -- Day Rewards Configuration
 -- 3 types to setup "money", "item", "gold"
